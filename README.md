@@ -116,4 +116,3 @@ Run unit tests from the terminal:
 
 ---
 
-If you want, I can also add a `CONTRIBUTING.md` or help you write a more detailed `README` once you provide the app's core feature set and workflow.
