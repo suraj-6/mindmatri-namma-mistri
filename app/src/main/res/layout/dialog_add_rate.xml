@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <!-- Material Name -->
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/NammaMistri.TextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:hint="ಸಾಮಗ್ರಿ ಹೆಸರು / Material Name">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/inputMaterialName"
+            style="@style/NammaMistri.TextInputEditText"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:inputType="textCapWords"
+            android:maxLines="1" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!-- Unit -->
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/NammaMistri.TextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:hint="ಯೂನಿಟ್ / Unit (e.g., per bag, per kg)">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/inputUnit"
+            style="@style/NammaMistri.TextInputEditText"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:inputType="text"
+            android:maxLines="1" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!-- Price -->
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/NammaMistri.TextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ಬೆಲೆ / Price"
+        app:prefixText="₹">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/inputPrice"
+            style="@style/NammaMistri.TextInputEditText"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:inputType="numberDecimal"
+            android:maxLines="1" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+</LinearLayout>

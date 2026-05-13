@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_fragment_site.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_arrow_drop_down.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_dialog_add_labor.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_labor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_dashed_border.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_dashed_border.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-54:/drawable_ic_app_logo.png.flat",
+        "source": "com.nammamistri.app-main-56:/drawable/ic_app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_site_indicator.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_site_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_fragment_labor.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_labor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_total_cost.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_total_cost.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_bottom_sheet_worker_report.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\bottom_sheet_worker_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_fragment_rates.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_rates.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_item_site_card.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_site_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_circle_primary.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_circle_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_fragment_photos.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_photos.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_circle_gray.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_circle_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_price_check.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_price_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_item_photo_grid.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_photo_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_activity_site_management.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\activity_site_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_balance_highlight.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_balance_highlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_result_item.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_result_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\color_bottom_nav_item_color.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\color\\bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_calculate.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_calculate.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_dialog_add_worker.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_fragment_calculator.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_button_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_button_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_stats_row.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_stats_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_item_calculation_history.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_calculation_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_circle_white.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_item_labor.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_labor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_dialog_photo_detail.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_photo_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_photo_library.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_photo_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_dialog_add_rate.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_item_material_log.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_material_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_bg_balance_row.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\bg_balance_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_item_rate.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_item_worker_card.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_worker_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_dialog_site_selection.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_site_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_dialog_mark_attendance.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_mark_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_item_photo.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_group.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_site.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_dialog_add_site.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_dialog_add_photo.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\drawable_ic_money.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\drawable\\ic_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\layout_dialog_new_site.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_new_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-debug-54:\\font_roboto_regular.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\font\\roboto_regular.xml"
+    }
+]

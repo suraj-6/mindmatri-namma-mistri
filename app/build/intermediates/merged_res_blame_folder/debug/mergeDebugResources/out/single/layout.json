@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\fragment_rates.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_rates.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\dialog_add_rate.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\item_rate.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\dialog_add_site.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\dialog_add_worker.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\dialog_mark_attendance.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_mark_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\dialog_add_photo.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\item_calculation_history.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_calculation_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\item_labor.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_labor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\fragment_labor.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_labor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\fragment_photos.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_photos.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\fragment_site.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\dialog_new_site.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_new_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\fragment_calculator.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\fragment_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\activity_site_management.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\activity_site_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\item_material_log.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_material_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\item_photo_grid.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_photo_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\item_worker_card.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_worker_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\bottom_sheet_worker_report.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\bottom_sheet_worker_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\item_photo.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\dialog_photo_detail.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_photo_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\dialog_add_labor.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_add_labor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\item_site_card.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\item_site_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-mergeDebugResources-53:\\layout\\dialog_site_selection.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.7\\com.nammamistri.app-main-56:\\layout\\dialog_site_selection.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-53:/layout/fragment_photos.xml",
+        "source": "com.nammamistri.app-main-56:/layout/fragment_photos.xml"
+    }
+]

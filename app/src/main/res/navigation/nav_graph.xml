@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/calculatorFragment">
+
+    <fragment
+        android:id="@+id/calculatorFragment"
+        android:name="com.nammamistri.app.ui.calculator.CalculatorFragment"
+        android:label="@string/calculator_title"
+        tools:layout="@layout/fragment_calculator" />
+
+    <fragment
+        android:id="@+id/laborFragment"
+        android:name="com.nammamistri.app.ui.labor.LaborFragment"
+        android:label="@string/team_title"
+        tools:layout="@layout/fragment_labor" />
+
+    <fragment
+        android:id="@+id/photosFragment"
+        android:name="com.nammamistri.app.ui.photos.PhotosFragment"
+        android:label="@string/photos_title"
+        tools:layout="@layout/fragment_photos" />
+
+    <fragment
+        android:id="@+id/ratesFragment"
+        android:name="com.nammamistri.app.ui.rates.RatesFragment"
+        android:label="@string/rates_title"
+        tools:layout="@layout/fragment_rates" />
+
+</navigation>

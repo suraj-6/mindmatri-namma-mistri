@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">ನಮ್ಮ ಮಿಸ್ತ್ರಿ / NammaMistri</string>
+    
+    <!-- Navigation Titles - Kannada + English -->
+    <string name="calculator_title">ಲೆಕ್ಕಾಚಾರ / Calculator</string>
+    <string name="team_title">ತಂಡ / Team</string>
+    <string name="photos_title">ಫೋಟೋಗಳು / Photos</string>
+    <string name="rates_title">ದರಗಳು / Rates</string>
+    
+    <!-- Site Selection -->
+    <string name="select_site">ಸೈಟ್ ಆಯ್ಕೆಮಾಡಿ / Select Site</string>
+    <string name="new_site">ಹೊಸ ಸೈಟ್ / New Site</string>
+    <string name="site_name">ಸೈಟ್ ಹೆಸರು / Site Name</string>
+    <string name="site_location">ಸ್ಥಳ / Location</string>
+    <string name="create_site">ಸೈಟ್ ರಚಿಸಿ / Create Site</string>
+    <string name="no_sites">ಯಾವುದೇ ಸೈಟ್‌ಗಳಿಲ್ಲ / No sites found</string>
+    <string name="active_sites">ಸಕ್ರಿಯ ಸೈಟ್‌ಗಳು / Active Sites</string>
+    
+    <!-- Calculator Screen -->
+    <string name="wall_thickness">ಗೋಡೆ ದಪ್ಪ / Wall Thickness</string>
+    <string name="thickness_half_brick">4.5 ಇಂಚು (ಅರ್ಧ ಇಟ್ಟಿಗೆ) / 4.5 inch (Half Brick)</string>
+    <string name="thickness_full_brick">9 ಇಂಚು (ಪೂರ್ಣ ಇಟ್ಟಿಗೆ) / 9 inch (Full Brick)</string>
+    <string name="thickness_one_half_brick">13.5 ಇಂಚು (ಒಂದೂವರೆ ಇಟ್ಟಿಗೆ) / 13.5 inch (One and Half)</string>
+    <string name="length_meters">ಉದ್ದ (ಮೀಟರ್) / Length (meters)</string>
+    <string name="width_meters">ಅಗಲ (ಮೀಟರ್) / Width (meters)</string>
+    <string name="height_meters">ಎತ್ತರ (ಮೀಟರ್) / Height (meters)</string>
+    <string name="calculate">ಲೆಕ್ಕ ಹಾಕು / CALCULATE</string>
+    <string name="save_to_log">ಉಳಿಸು / SAVE TO SITE LOG</string>
+    <string name="clear">ಅಳಿಸು / CLEAR</string>
+    
+    <!-- Calculation Results -->
+    <string name="result_title">ಫಲಿತಾಂಶ / Result</string>
+    <string name="bricks_required">ಇಟ್ಟಿಗೆಗಳು ಬೇಕು / Bricks Required</string>
+    <string name="cement_bags">ಸಿಮೆಂಟ್ ಚೀಲಗಳು / Cement Bags</string>
+    <string name="sand_loads">ಮರಳು ಲೋಡ್‌ಗಳು / Sand Loads</string>
+    <string name="estimated_cost">ಅಂದಾಜು ವೆಚ್ಚ / Estimated Cost</string>
+    <string name="one_load_info">(1 ಲೋಡ್ = 100 ಘ.ಅ.) / (1 load = 100 cft)</string>
+    <string name="nos">ಸಂಖ್ಯೆ / nos</string>
+    <string name="bags">ಚೀಲಗಳು / bags</string>
+    <string name="loads">ಲೋಡ್ / loads</string>
+    
+    <!-- Team/Labor Screen -->
+    <string name="add_worker">ಕೆಲಸಗಾರರನ್ನು ಸೇರಿಸಿ / Add Worker</string>
+    <string name="worker_name">ಕೆಲಸಗಾರನ ಹೆಸರು / Worker Name</string>
+    <string name="daily_wage">ದಿನದ ಕೂಲಿ / Daily Wage</string>
+    <string name="phone_number">ಫೋನ್ ನಂಬರ್ / Phone Number</string>
+    <string name="mark_attendance">ಹಾಜಾರಿ / Mark Attendance</string>
+    <string name="present">ಹಾಜರು / Present</string>
+    <string name="absent">ಗೈರು / Absent</string>
+    <string name="advance_payment">ಅಡ್ವಾನ್ಸ್ / Advance Payment</string>
+    <string name="days_present">ಹಾಜರಿ ದಿನಗಳು / Days Present</string>
+    <string name="total_earned">ಒಟ್ಟು ಸಂಪಾದನೆ / Total Earned</string>
+    <string name="total_advance">ಒಟ್ಟು ಅಡ್ವಾನ್ಸ್ / Total Advance</string>
+    <string name="balance_due">ಬಾಕಿ / Balance Due</string>
+    <string name="pay_now">ಪಾವತಿ ಮಾಡಿ / Pay Now</string>
+    
+    <!-- Photos Screen -->
+    <string name="take_photo">ಫೋಟೋ ತೆಗೆಯಿರಿ / Take Photo</string>
+    <string name="choose_gallery">ಗ್ಯಾಲರಿಯಿಂದ ಆಯ್ಕೆಮಾಡಿ / Choose from Gallery</string>
+    <string name="photo_description">ಫೋಟೋ ವಿವರಣೆ / Photo Description</string>
+    <string name="photo_category">ವರ್ಗ / Category</string>
+    <string name="category_progress">ಕೆಲಸ ಪ್ರಗತಿ / Work Progress</string>
+    <string name="category_before">ಮೊದಲು / Before</string>
+    <string name="category_after">ನಂತರ / After</string>
+    <string name="category_materials">ಸಾಮಗ್ರಿಗಳು / Materials</string>
+    <string name="category_issue">ಸಮಸ್ಯೆ / Issue</string>
+    <string name="no_photos">ಯಾವುದೇ ಫೋಟೋಗಳಿಲ್ಲ / No photos yet</string>
+    
+    <!-- Rates Screen -->
+    <string name="material_rates">ಸಾಮಗ್ರಿ ದರಗಳು / Material Rates</string>
+    <string name="add_rate">ದರ ಸೇರಿಸಿ / Add Rate</string>
+    <string name="edit_rate">ದರ ಬದಲಾಯಿಸಿ / Edit Rate</string>
+    <string name="material_name">ಸಾಮಗ್ರಿ ಹೆಸರು / Material Name</string>
+    <string name="unit">ಯೂನಿಟ್ / Unit</string>
+    <string name="price_per_unit">ಪ್ರತಿ ಯೂನಿಟ್ ಬೆಲೆ / Price per Unit</string>
+    <string name="last_updated">ಕೊನೆಯ ನವೀಕರಣ / Last Updated</string>
+    <string name="reset_defaults">ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸಿ / Reset to Defaults</string>
+    
+    <!-- Common Actions -->
+    <string name="save">ಉಳಿಸು / Save</string>
+    <string name="cancel">ರದ್ದುಮಾಡು / Cancel</string>
+    <string name="delete">ಅಳಿಸು / Delete</string>
+    <string name="edit">ಸಂಪಾದಿಸು / Edit</string>
+    <string name="ok">ಸರಿ / OK</string>
+    <string name="yes">ಹೌದು / Yes</string>
+    <string name="no">ಇಲ್ಲ / No</string>
+    <string name="share">ಹಂಚು / Share</string>
+    <string name="search">ಹುಡುಕು / Search</string>
+    <string name="close">ಮುಚ್ಚು / Close</string>
+
+    <!-- Messages -->
+    <string name="saved_successfully">ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ / Saved successfully</string>
+    <string name="deleted_successfully">ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ / Deleted successfully</string>
+    <string name="error_occurred">ದೋಷ ಸಂಭವಿಸಿದೆ / An error occurred</string>
+    <string name="please_fill_all_fields">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳನ್ನು ತುಂಬಿ / Please fill all fields</string>
+    <string name="please_select_site">ದಯವಿಟ್ಟು ಮೊದಲು ಸೈಟ್ ಆಯ್ಕೆಮಾಡಿ / Please select a site first</string>
+    <string name="calculation_saved">ಲೆಕ್ಕಾಚಾರ ಉಳಿಸಲಾಗಿದೆ / Calculation saved to site log</string>
+    
+    <!-- Units -->
+    <string name="rupee_symbol">₹</string>
+    <string name="per_thousand">ಪ್ರತಿ 1000 / per 1000</string>
+    <string name="per_bag">ಪ್ರತಿ ಚೀಲ / per bag</string>
+    <string name="per_cft">ಪ್ರತಿ ಘ.ಅ. / per cft</string>
+    <string name="per_kg">ಪ್ರತಿ ಕೆಜಿ / per kg</string>
+    <string name="per_day">ಪ್ರತಿ ದಿನ / per day</string>
+    
+    <!-- Material Log History -->
+    <string name="calculation_history">ಲೆಕ್ಕಾಚಾರ ಇತಿಹಾಸ / Calculation History</string>
+    <string name="no_calculations">ಯಾವುದೇ ಲೆಕ್ಕಾಚಾರಗಳಿಲ್ಲ / No calculations yet</string>
+    <string name="wall_details">ಗೋಡೆ ವಿವರಗಳು / Wall Details</string>
+</resources>

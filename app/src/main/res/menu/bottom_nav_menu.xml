@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/calculatorFragment"
+        android:icon="@drawable/ic_calculate"
+        android:title="@string/calculator_title" />
+
+    <item
+        android:id="@+id/laborFragment"
+        android:icon="@drawable/ic_group"
+        android:title="@string/team_title" />
+
+    <item
+        android:id="@+id/photosFragment"
+        android:icon="@drawable/ic_photo_library"
+        android:title="@string/photos_title" />
+
+    <item
+        android:id="@+id/ratesFragment"
+        android:icon="@drawable/ic_price_check"
+        android:title="@string/rates_title" />
+
+</menu>

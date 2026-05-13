@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- External files directory for Pictures -->
+    <external-files-path
+        name="nammamistri_photos"
+        path="Pictures/NammaMistri/" />
+    
+    <!-- Pictures directory -->
+    <external-files-path
+        name="pictures"
+        path="Pictures/" />
+    
+    <!-- Cache directory -->
+    <cache-path
+        name="cache"
+        path="/" />
+    
+    <!-- External cache -->
+    <external-cache-path
+        name="external_cache"
+        path="/" />
+</paths>
